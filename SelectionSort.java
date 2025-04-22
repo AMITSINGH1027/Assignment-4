@@ -45,16 +45,16 @@ public class SelectionSort {
     }
 }
 
-//output//
-Original array:
-6 5 2 3 1
-After pass 1:
-1 5 2 3 6
-After pass 2:
-1 2 5 3 6
-After pass 3:
-1 2 3 5 6
-After pass 4:
-1 2 3 5 6
-Sorted array:
-1 2 3 5 6
+//output
+//Original array:
+//6 5 2 3 1
+//After pass 1:
+//1 5 2 3 6
+//After pass 2:
+//1 2 5 3 6
+//After pass 3:
+//1 2 3 5 6
+//After pass 4:
+//1 2 3 5 6
+//Sorted array:
+//1 2 3 5 6
